@@ -1,0 +1,68 @@
+[
+	{
+		"key": "AM",
+		"latitude": -4.88,
+		"longitude": -65.34,
+		"name": "Amazonas"
+	},
+	{
+		"key": "BA",
+		"latitude": -12.24,
+		"longitude": -41.60,
+		"name": "Bahia"
+	},
+	{
+		"key": "CE",
+		"latitude": -5.19,
+		"longitude": -39.29,
+		"name": "Ceará"
+	},
+	{
+		"key": "GO",
+		"latitude": -15.92,
+		"longitude": -49.61,
+		"name": "Goiás"
+	},
+	{
+		"key": "MG",
+		"latitude": -18.76,
+		"longitude": -44.40,
+		"name": "Minas Gerais"
+	},
+	{
+		"key": "MS",
+		"latitude": -20.42,
+		"longitude": -54.62,
+		"name": "Mato Grosso do Sul"
+	},
+	{
+		"key": "MT",
+		"latitude": -13.05,
+		"longitude": -55.90,
+		"name": "Mato Grosso"
+	},
+	{
+		"key": "PE",
+		"latitude": -8.33,
+		"longitude": -38.11,
+		"name": "Pernambuco"
+	},
+	{
+		"key": "PR",
+		"latitude": -24.89,
+		"longitude": -51.55,
+		"name": "Paraná"
+	},
+	{
+		"key": "SP",
+		"latitude": -22.03,
+		"longitude": -48.91,
+		"name": "São Paulo"
+	},
+	{
+		"key": "RS",
+		"latitude": -29.22,
+		"longitude": -53.68,
+		"name": "Rio Grande do Sul"
+	}
+]
